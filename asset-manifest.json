@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/movie/static/css/main.dfd6ca18.css",
-    "main.js": "/movie/static/js/main.e22a8f8e.js",
-    "index.html": "/movie/index.html",
-    "main.dfd6ca18.css.map": "/movie/static/css/main.dfd6ca18.css.map",
-    "main.e22a8f8e.js.map": "/movie/static/js/main.e22a8f8e.js.map"
+    "main.css": "https://yts.mx/api/v2/list_movies.json?minimum_rating=8.8&sort_by=year/static/css/main.dfd6ca18.css",
+    "main.js": "https://yts.mx/api/v2/list_movies.json?minimum_rating=8.8&sort_by=year/static/js/main.89a19fa7.js",
+    "index.html": "https://yts.mx/api/v2/list_movies.json?minimum_rating=8.8&sort_by=year/index.html",
+    "main.dfd6ca18.css.map": "https://yts.mx/api/v2/list_movies.json?minimum_rating=8.8&sort_by=year/static/css/main.dfd6ca18.css.map",
+    "main.89a19fa7.js.map": "https://yts.mx/api/v2/list_movies.json?minimum_rating=8.8&sort_by=year/static/js/main.89a19fa7.js.map"
   },
   "entrypoints": [
     "static/css/main.dfd6ca18.css",
-    "static/js/main.e22a8f8e.js"
+    "static/js/main.89a19fa7.js"
   ]
 }
